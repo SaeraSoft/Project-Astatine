@@ -1,8 +1,11 @@
 [
 null,
-{"id":1,"battlerName":"Actor1_1","characterIndex":0,"characterName":"Actor1","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Harold","nickname":"","note":"","profile":""},
-{"id":2,"battlerName":"Actor1_8","characterIndex":7,"characterName":"Actor1","classId":2,"equips":[2,1,2,3,0],"faceIndex":7,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Therese","nickname":"","note":"","profile":""},
-{"id":3,"battlerName":"Actor3_8","characterIndex":7,"characterName":"Actor3","classId":3,"equips":[3,0,2,3,4],"faceIndex":7,"faceName":"Actor3","traits":[],"initialLevel":1,"maxLevel":99,"name":"Marsha","nickname":"","note":"","profile":""},
-{"id":4,"battlerName":"Actor2_7","characterIndex":6,"characterName":"Actor2","classId":4,"equips":[4,0,2,3,4],"faceIndex":6,"faceName":"Actor2","traits":[],"initialLevel":1,"maxLevel":99,"name":"Lucius","nickname":"","note":"","profile":""},
-{"id":5,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"Test","nickname":"","note":"","profile":""}
+{"id":1,"battlerName":"jarkko","characterIndex":0,"characterName":"jarkko","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"jarkko","traits":[],"initialLevel":1,"maxLevel":99,"name":"Jarkko Mayhine","nickname":"Jarkko","note":"","profile":""},
+{"id":2,"battlerName":"elizabeth","characterIndex":0,"characterName":"elizabeth","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"elizabeth","traits":[],"initialLevel":1,"maxLevel":99,"name":"Elizabeth C.C. Willow","nickname":"Elizabeth","note":"","profile":""},
+{"id":3,"battlerName":"mosoughkal","characterIndex":0,"characterName":"mosoughkal","classId":3,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"mosoughkal","traits":[],"initialLevel":1,"maxLevel":99,"name":"Mosoughkal","nickname":"Mosoughkal","note":"","profile":""},
+{"id":4,"battlerName":"candlelight","characterIndex":0,"characterName":"candlelight","classId":4,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"candlelight","traits":[],"initialLevel":1,"maxLevel":99,"name":"Jilian Terygad","nickname":"Candlelight","note":"","profile":""},
+{"id":5,"battlerName":"ren_yu","characterIndex":0,"characterName":"ren_yu","classId":5,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"ren_yu","traits":[],"initialLevel":1,"maxLevel":99,"name":"Ren Yu","nickname":"Ren Yu","note":"","profile":""},
+{"id":6,"battlerName":"wanda","characterIndex":0,"characterName":"wanda","classId":6,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"wanda","traits":[],"initialLevel":1,"maxLevel":99,"name":"Wanda Guristalv","nickname":"Wanda","note":"","profile":""},
+{"id":7,"battlerName":"vienna","characterIndex":0,"characterName":"vienna","classId":7,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"vienna","traits":[],"initialLevel":1,"maxLevel":99,"name":"Vienna Tehan","nickname":"Vienna","note":"","profile":""},
+{"id":8,"battlerName":"kiranga","characterIndex":0,"characterName":"kiranga","classId":8,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"kiranga","traits":[],"initialLevel":1,"maxLevel":99,"name":"Kiranga Zhuul","nickname":"Kiranga","note":"","profile":""}
 ]
